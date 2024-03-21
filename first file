@@ -7,4 +7,6 @@ cout<<"23-set-007";
 cout<<"the sum of two number are"<<a+b;
 
 cout<<"the subtract of two number are"<<a-b;
+
+cout<<"the product of two number are"<<a*b;
 }
